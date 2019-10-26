@@ -1,5 +1,8 @@
 # listview_json_data_10
 
+<img width="224" alt="Screenshot at Oct 26 15-25-04" src="https://user-images.githubusercontent.com/40392114/67616628-6a181980-f805-11e9-92c0-3cd86c466230.png">
+<img width="222" alt="Screenshot at Oct 26 15-25-40" src="https://user-images.githubusercontent.com/40392114/67616629-6ab0b000-f805-11e9-8726-5c83a0253745.png">
+
 A new Flutter project.
 
 ## Getting Started
