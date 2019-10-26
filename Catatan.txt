@@ -1,0 +1,2 @@
+membuat Listview,
+dengan menggunakan data dari dalam Array dan menggunakan data dari JSON File
